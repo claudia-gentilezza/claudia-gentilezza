@@ -4,31 +4,42 @@
 
 <p align="center">
 <img src=https://readme-typing-svg.herokuapp.com?font=roboto&size=32&duration=6000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Transicao+de+carreira>
-  <p>
+<p>
 
-  ## Sobre mim
+## Sobre mim
 
-  <img align="right" height="190" src="https://cdn.pixabay.com/animation/2023/05/17/16/04/16-04-26-783_512.gif">
+<img align="right" height="190" src="https://cdn.pixabay.com/animation/2023/05/17/16/04/16-04-26-783_512.gif">
 
-  Sou estudante de redes de computadores no Senai Informatica e estou em transicao de carreira.
+Sou estudante de redes de computadores no Senai Informatica e estou em transicao de carreira.
 
-  **"A soberba precede a ruína, e a altivez do espírito precede a queda"**
+**"A soberba precede a ruína, e a altivez do espírito precede a queda"**
 
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-  ---
+---
 
   ## Tech Stack
 
-  <p align="center">
-
-  <img src="https://skillicons.dev/icons?i=aws,azure,nginx,grafana,windows,ps">  
-  </p>
 <p align="center">
-  
+  <img src="https://skillicons.dev/icons?i=aws,azure,nginx,grafana,windows,ps">  
 </p>
-  
+
+<p align="center">
+    <img src="https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
+    <img src="https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white">
+</p>
+
+
+
+## 🥇 Certificações
+
+| Certificação | Nome | 
+| --- | --- |
+| ![AWS CF](https://img.shields.io/badge/AWS_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoSize=amg&color=orange&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F095c6207-2b6e-4176-a752-29a1457ea846) | AWS Cloud Foundations |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoSize=amg&color=black) | Cisco NetAcademy Introduction to Networks |

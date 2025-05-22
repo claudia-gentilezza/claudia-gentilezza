@@ -29,10 +29,10 @@ Sou estudante de redes de computadores no Senai Informatica e estou em transicao
 </p>
 
 <p align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"">
     <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white">
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
-    <img src="https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white">
+    <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff">
 </p>
 
 

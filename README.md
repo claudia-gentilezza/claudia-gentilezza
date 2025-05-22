@@ -41,5 +41,8 @@ Sou estudante de redes de computadores no Senai Informatica e estou em transicao
 
 | Certificação | Nome | 
 | --- | --- |
-| ![AWS CF](https://img.shields.io/badge/AWS_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoSize=amg&color=orange&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F095c6207-2b6e-4176-a752-29a1457ea846) | AWS Cloud Foundations |
+| ![SENAIRedesDeComputadores](https://img.shields.io/badge/SENAI_-Computer_Networks-t?labelColor=red&color=white) | Curso Técnico de Redes de Computadores |
+| ![AWS CD](https://img.shields.io/badge/AWS_Cloud_Developing-t?logo=amazonwebservices&color=orange) | AWS Academy Cloud Developing |
+| ![AWS CF](https://img.shields.io/badge/AWS_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoSize=amg&color=orange&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F095c6207-2b6e-4176-a752-29a1457ea846) | AWS Academy Cloud Foundations |
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoSize=amg&color=black) | Cisco NetAcademy Introduction to Networks |
+| ![CCNA RoutingSwitching](https://img.shields.io/badge/CISCO_Routing_%26_Switching-t?logo=cisco&color=black) | Cisco NetAcademy Routing & Switching |

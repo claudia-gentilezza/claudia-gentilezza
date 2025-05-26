@@ -10,7 +10,7 @@
 
 <img align="right" height="190" src="https://cdn.pixabay.com/animation/2023/05/17/16/04/16-04-26-783_512.gif">
 
-Sou estudante de redes de computadores no Senai Informatica e estou em transicao de carreira.
+Estudante de redes de computadores no Senai Informatica.
 
 **"A soberba precede a ruína, e a altivez do espírito precede a queda"**
 

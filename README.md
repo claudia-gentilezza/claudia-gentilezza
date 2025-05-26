@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src=https://readme-typing-svg.herokuapp.com?font=roboto&size=32&duration=6000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Transicao+de+carreira>
+<img src=https://readme-typing-svg.herokuapp.com?font=roboto&size=32&duration=6000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Em+Construção>
 <p>
 
 ## Sobre mim
